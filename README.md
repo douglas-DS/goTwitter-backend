@@ -1,6 +1,5 @@
-# goTwitter-backend
+# GoTwitter backend service
 
-goTwitter
+Rest API who provide endpoints and socket services for GoTwitter application.
 
-Full stack application in JS (React/Node). 
-Just 'yarn start' script in this backend folder to run the app, and the same command in the front folder.
+There are a script for dev environment started with 'yarn start' command who starts the application. To run this script, yarn package manager is mandatory.
