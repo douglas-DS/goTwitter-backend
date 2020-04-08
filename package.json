@@ -14,5 +14,8 @@
   },
   "scripts": {
     "start": "nodemon src/index.js"
-  }
+  },
+  "description": "Backend service for goTwitter clone application",
+  "repository": "git@github.com:douglas-DS/goTwitter-backend.git",
+  "author": "Douglas Souza <douglas_souza03@hotmail.com>"
 }
